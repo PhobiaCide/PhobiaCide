@@ -1,40 +1,29 @@
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" style="width: 100%;" />
-
-</p>
-
-## 📈 My GitHub Activity!
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" style="width:100%; " />
 
 <br>
 
-<p>
+## 📈 PhobiaCide's GitHub Activity
+
+<br>
   
 <a href="https://github.com/PhobiaCide/">
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=PhobiaCide&count_private=true&show_icons=true&theme=noctis_minimus" style="width: 60%;" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PhobiaCide&count_private=true&show_icons=true&theme=noctis_minimus" style="width:auto; height:243px;" />
 </a>
-  
 <a href="https://github.com/PhobiaCide/">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhobiaCide&theme=noctis_minimus" style="width: auto;" />
-
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhobiaCide&theme=noctis_minimus" style="width:auto; height:242px;" />
 </a>
   
-</p>
-
 <br>
+  
+</div>
 
-<br>
+<div>
 
 <br>
 
 ## 🚀 Some Tools I have Learned:
 
 <br>
-
-<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MS-DOS" width="64" height="64" style="max-width: 100%;">
 
@@ -51,8 +40,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="64" height="64" style="max-width: 100%;">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="64" height="64" style="max-width: 100%;">
-
-</p>
 
 <br>
 
@@ -112,8 +99,4 @@ PhobiaCide:
 
 <br>
 
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%;" />
-
-</p>
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%;" />
