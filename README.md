@@ -10,11 +10,11 @@ I love open source!
 
 <a href="https://github.com/PhobiaCide">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhobiaCide&theme=noctis_minimus&show_icons=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PhobiaCide&theme=noctis_minimus&show_icons=true"  style="width: 49%"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhobiaCide&theme=noctis_minimus&layout=compact" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhobiaCide&theme=noctis_minimus&layout=compact" style="width: 49%" />
 
-<img src="https://github.com/PhobiaCide/PhobiaCide/blob/output/github-contribution-grid-snake.svg?username=PhobiaCide&theme=noctis_minimus&layout=compact" />
+<img src="https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg" style="width: 100%;" />
 
 </a>
 
@@ -22,7 +22,7 @@ I love open source!
 
 ## 🚀 Some Tools I have Learned:
 
-<p>
+<p align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg" alt="MS-DOS" width="64" height="64" style="max-width: 100%;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="64" height="64" style="max-width: 100%;">
