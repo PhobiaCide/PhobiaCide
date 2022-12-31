@@ -145,16 +145,10 @@ PhobiaCide:
       <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="64" height="64"/>
     </td>
     <td>
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="64" height="64"/> 
-    </td>
-    <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="64" height="64"/>
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="64" height="64"/>
-    </td>
     <td>
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="64" height="64"/>
     </td>
