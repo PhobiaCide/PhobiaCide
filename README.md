@@ -61,7 +61,7 @@
 
 <details>
 <summary>
-  <h2>👨🏻‍💻 A Little Bit About Myself:</h2>
+  <h2>👨🏻‍💻 A Few Bytes About Myself:</h2>
 </summary>
 
 ```json
