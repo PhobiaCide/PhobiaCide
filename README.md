@@ -193,7 +193,7 @@ PhobiaCide:
  
 <img src="https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&locale=en" alt="phobiacide" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=phobiacide&" alt="phobiacide" />
   
-<div align="center">
+<div align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" /></a>
 </div>
 
