@@ -1,68 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" style="width:100%; " />
 
-<br>
+<h3 align="center">
 
-<h2>I'm a passionate frontend developer from USA</h2>
-
-<br>
-
-<h3>
-
-  My Development Environment:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;A+passionate%2C+self-taught+;Programmimg+enthusiast+from+USA)](https://git.io/typing-svg)
 
 </h3>
 
-<!--
+<details align="center">
+<summary align="left">
 
-<h2 align="center">
+## 👨🏻‍💻 A Few Bytes About Myself:
 
-  <img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/>
-
-</h2>
-
--->
-
-<table>
-  <tr>
-    <td>
-      OS:
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Cloud:
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      IDE:
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      Linter:
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<details>
-<summary>
-  <h2>👨🏻‍💻 A Few Bytes About Myself:</h2>
 </summary>
+
+<div align="left">
 
 ```json
 
@@ -113,8 +64,60 @@ PhobiaCide:
 }
 
 ```
+</div>
 
 </details>
+
+## My Development Environment:
+
+<!--
+
+<h2 align="center">
+
+  <img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/>
+
+</h2>
+
+-->
+
+<table align="center">
+  <tr>
+    <td>
+      OS:
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Cloud:
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      IDE:
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Linter:
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+
 
 <br>
 
@@ -124,7 +127,7 @@ PhobiaCide:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 -->
   
-<table>
+<table align="center">
   <tr>
     <td>
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="64" height="64"/>
@@ -185,16 +188,13 @@ PhobiaCide:
 
 ## 📈 My GitHub Activity
 
-<br>
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
-
-<br>
- 
 <img src="https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&locale=en" alt="phobiacide" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=phobiacide&" alt="phobiacide" />
   
-<div align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" /></a>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" /><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" /></a>
 </div>
 
 <br>
