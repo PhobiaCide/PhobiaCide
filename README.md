@@ -65,8 +65,11 @@ PhobiaCide: {
 <!--
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/></h2>
 -->
-  
-<table align="center">
+
+<table>
+<tr>
+<td>
+<table>
   <tr>
     <td align="right"> OS: </td>
     <td>
@@ -79,6 +82,10 @@ PhobiaCide: {
       <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />
     </td>
   </tr>
+</table>
+</td>
+<td>
+<table>
   <tr>
     <td align="right"> IDE: </td>
     <td>
@@ -91,6 +98,9 @@ PhobiaCide: {
       <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
     </td>
   </tr>
+</table>
+</td>
+</tr>
 </table>
 <br>
 <br>
