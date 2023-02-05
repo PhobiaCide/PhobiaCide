@@ -66,7 +66,7 @@ PhobiaCide: {
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/></h2>
 -->
 
-<table>
+<table align="center">
 <tr>
 <td>
 <table>
@@ -177,6 +177,8 @@ PhobiaCide: {
               <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
               <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
             </td>
+          </tr>
+          <tr>
             <td>
               <img src="https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&locale=en" alt="phobiacide" />
             </td>
