@@ -1,14 +1,12 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" />
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;A+passionate%2C+self-taught+;Programmimg+enthusiast+from+USA" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;A+passionate%2C+self-taught+;Programming+enthusiast+from+USA" alt="Typing SVG" />
   </a>
 </h3>
 
-  <details align="center" style="display: block;">
-    <summary align="left"><h2> 👨 A Few Bytes About Myself: </h2></summary>
-    <div align="left">
-      
+<h2> 👨 A Few Bytes About Myself: </h2>
+     
 ```json 
 PhobiaCide: {
   name:
@@ -55,9 +53,6 @@ PhobiaCide: {
   ]
 } 
 ```
-    
-      
-  </details>
 
 <h2> 💻 My Development Environment: </h2>
 <br>
@@ -66,7 +61,7 @@ PhobiaCide: {
 <h2 align="center"><img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/></h2>
 -->
 
-<table align="center">
+<table>
 <tr>
 <td>
 <table>
@@ -111,7 +106,7 @@ PhobiaCide: {
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 -->
   
-<table align="center">
+<table>
   <tr>
     <td>
       <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="64" height="64" />
@@ -167,32 +162,26 @@ PhobiaCide: {
 <br>
 <h2> 📈 My GitHub Activity </h2>
 <br>
-<div align="center">
+<div>
   <table>
     <tr>
       <td>
-        <table>
-          <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
-              <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-            </td>
-          </tr>
-          <tr>
-            <td>
-              <img src="https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&locale=en" alt="phobiacide" />
-            </td>
-          </tr>
-        </table>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
+          <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&locale=en" alt="phobiacide" />
+      </td>
+    </tr>
+    <tr> 
+      <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=phobiacide&" alt="phobiacide" />
       </td>
     </tr>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" />
       </td>
     </tr>
