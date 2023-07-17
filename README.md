@@ -1,8 +1,8 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" />
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;a+passionate%2C+self-taught+;programming+enthusiast+from+USA" alt="Typing SVG" />
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;a+passionate%2C+self-taught+;programming+enthusiast+from+USA" alt="Typing SVG" />
+
 </h3>
 
 <h2> 👨 A Few Bytes About Myself: </h2>
