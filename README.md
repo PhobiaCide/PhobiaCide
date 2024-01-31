@@ -1,4 +1,7 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" />
+
+![GitHub followers](https://img.shields.io/github/followers/PhobiaCide?style=for-the-badge)
+
 <table>
      <tr>
           <td>
