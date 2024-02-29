@@ -1,5 +1,10 @@
 <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" />
 
+[about](#--a-few-bytes-about-myself-)
+[dev](#--my-development-environment-)
+[stack](#-some-tech-ive-begun-to-become-familiar-with-)
+[git](#--my-github-activity-)
+
 ![GitHub followers](https://img.shields.io/github/followers/PhobiaCide?style=for-the-badge)
 
 <table>
@@ -27,13 +32,13 @@
 ```json 
 PhobiaCide: {
   name:
-    "Andrew Amason",
+    "PhobiaCide",
   location:
     "Little Rock, AR, USA",
   occupation:
     "Line Cook",
   company:
-    "Yellow Rocket Concepts",
+    "Incomplete Infinity",
   education: [
     "Self-Taught Developer and Designer"
   ],
@@ -46,18 +51,19 @@ PhobiaCide: {
     "DevOps"
   ],
   technical_background: [
+    "Plays Eve Online",
     "Lifelong computer enthusiast/hobbyist"
   ],
   currently_learning: [
-    "SQL",
+    "Halfmoon.css",
     "javascript",
-    "React.js",
-    "next.js",
-    "lodash.js",
+    "Topcoat.css",
+    "Bootstrap.js",
+    "Popper.js",
     "jQuery.js",
-    "chart.js"
+    "d3.js"
   ],
-  goals_2023: [
+  goals_2024: [
     "Create at least 5 finished Projects",
     "Learn at least 3 new Technologies.",
     "Be excellent!"
@@ -65,8 +71,28 @@ PhobiaCide: {
   hobbies: [
     "Gaming",
     "Cinema",
-    "Art",
-    "Comedy"
+    "Comedy",
+    "Food",
+    "Math",
+    "Art"
+  ],
+  books: [
+    {
+      title: "Slaughterhouse-5",
+      author: "Kurt Vonnegut"
+    }, {
+      title: "Fight Club",
+      author: "Chuck Palahniuk"
+    }, {
+      title: "1984",
+      author: "George Orwell"
+    }, {
+      title: "Brave New World",
+      author: "Aldous Huxley"
+    }
+  ],
+  movies: [
+    "Cloud Atlas"
   ]
 } 
 ```
