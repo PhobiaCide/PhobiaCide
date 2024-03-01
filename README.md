@@ -1,44 +1,65 @@
-<img style="width:100%;" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=PhobiaCide&height=100&section=header" />
+<div style="border: 1px solid white;border-radius: 6em;">
+<img style="width:100%;" align="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=😨&thinsp;☠️&nbsp;PhobiaCide&nbsp;😱&thinsp;💀&height=100&section=header" />
 
-[about](#--a-few-bytes-about-myself-)
-[dev](#--my-development-environment-)
-[stack](#-some-tech-ive-begun-to-become-familiar-with-)
-[git](#--my-github-activity-)
-
+![GitHub User's stars](https://img.shields.io/github/stars/PhobiaCide?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/PhobiaCide?style=for-the-badge)
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide)
+
+## Introduction 🫱🏼‍🫲🏼
 
 <table>
-     <tr>
-          <td>
-               
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&theme=transparent)
+<tr>   
+<td> 
+<h3 align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;a+passionate%2C+self-taught+;programming+enthusiast+from+USA" alt="👋 Hi, I'm PhobiaCide, a passionate, self-taught programming enthusiast frm USA." />
+</h3> 
+</td>
+<td align="center" colspan="2">
 
-  </td>
-  <td>
-               
-<h3 align="right">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;a+passionate%2C+self-taught+;programming+enthusiast+from+USA" alt="Typing SVG" />
 
-</h3>
+       
+## Table Of Contents 📑
 
+| # | Section |
+|---| --- |
+|I|[Introduction](#introduction-)|
+|II|[A Few Bytes About Me](#--a-few-bytes-about-myself-)|
+|III|[Development Environment](#--my-development-environment-)|
+|IV|[Tech Stack](#-some-tech-ive-begun-to-become-familiar-with-)|
+|V|[GitHub Activity](#--my-github-activity-)|
+     
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+![PhobiaCide's GitHub stats](https://github-readme-stats.vercel.app/api?username=phobiacide&show_icons=true&theme=transparent)
+
+</td>
+<td>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
+     <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
+</td>
+</tr>
+<tr>
+<td colspan="3">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" />
 </td>
 </tr>
 </table>
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=phobiacide" alt="phobiacide" />
-
-<h2> 👨 A Few Bytes About Myself: </h2>
+## 👨 A Few Bytes About Myself
      
 ```json 
 PhobiaCide: {
-  name:
-    "PhobiaCide",
-  location:
-    "Little Rock, AR, USA",
-  occupation:
-    "Line Cook",
-  company:
-    "Incomplete Infinity",
+  name: "PhobiaCide",
+  location: {
+    city: "Little Rock,
+    state: "Arkansas",
+    country: "USA"
+  },
+  occupation: "Line Cook"
+  company: "Incomplete Infinity",
   education: [
     "Self-Taught Developer and Designer"
   ],
@@ -97,12 +118,12 @@ PhobiaCide: {
 } 
 ```
 
-<h2> 💻 My Development Environment: </h2>
+## 💻 My Development Environment
 <br>
   
-<!--
-<h2 align="center"><img src="https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide"/></h2>
--->
+
+
+
 
 <table>
 <tr>
@@ -144,10 +165,14 @@ PhobiaCide: {
 <br>
 <h2> Some Tech I've Begun To Become Familiar With: </h2>
 <br>
-  
-<!--  
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
--->
+
+|     |
+| --- | 
+|![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)|
+|![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
+|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|
+|![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)|
   
 <table>
   <tr>
@@ -197,11 +222,6 @@ PhobiaCide: {
     </td>
   </tr>
 </table>
-
-<!--
-<h3 align="left">Connect with me:</h3><a href="https://codepen.io/aamason86" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="aamason86" height="30" width="40" /></a>
--->
-
 <br>
 <h2> 📈 My GitHub Activity </h2>
 <br>
@@ -222,3 +242,4 @@ PhobiaCide: {
 </div>
 <hr>
 <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" style="width: 100%;" />
+</div>
