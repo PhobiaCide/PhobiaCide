@@ -15,9 +15,7 @@
 </h3> 
 </td>
 <td align="center" colspan="2">
-
-
-       
+    
 ## Table Of Contents 📑
 
 | # | Section |
@@ -27,7 +25,7 @@
 |III|[Development Environment](#--my-development-environment-)|
 |IV|[Tech Stack](#-some-tech-ive-begun-to-become-familiar-with-)|
 |V|[GitHub Activity](#--my-github-activity-)|
-     
+
 </td>
 </tr>
 <tr>
@@ -116,6 +114,26 @@ PhobiaCide: {
     "Cloud Atlas"
   ]
 } 
+```
+
+## My Dev Cycle
+
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Put pants on: 4: 🤦
+      Drive To Work: 2: 🤦
+      Make fries: 0: 🤦
+    section Go home 🐈‍⬛
+      Drive home: 2: 🤦
+      Sit down: 4: 🤦
+      Pet cats: 6: 🤦, 😺, 😸, 😼
+    section Code ❤️
+      Take pants pants: 8: 🤦
+      Dream: 10: 🤦, 😺, 😸, 😼
+      Make a flowchart: 8: 🤦
+      Have deep conversations with AI: 6: 🤦, AI   
 ```
 
 ## 💻 My Development Environment
