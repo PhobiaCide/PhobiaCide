@@ -14,17 +14,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=28&duration=4000&pause=500&color=36F751&center=true&vCenter=true&multiline=true&width=600&height=130&lines=Hello+%F0%9F%91%8B+I'm+PhobiaCide%2C;a+passionate%2C+self-taught+;programming+enthusiast+from+USA" alt="👋 Hi, I'm PhobiaCide, a passionate, self-taught programming enthusiast frm USA." />
 </h3> 
 </td>
-<td align="center" colspan="2">
-    
-## Table Of Contents 📑
+<td align="center" colspan="2"> 
 
-| # | Section |
-|---| --- |
-|I|[Introduction](#introduction-)|
-|II|[A Few Bytes About Me](#--a-few-bytes-about-myself-)|
-|III|[Development Environment](#--my-development-environment-)|
-|IV|[Tech Stack](#-some-tech-ive-begun-to-become-familiar-with-)|
-|V|[GitHub Activity](#--my-github-activity-)|
+| Table Of Contents 📑 |
+| --- |
+|[Introduction](#introduction-)|
+|[A Few Bytes About Me](#-a-few-bytes-about-myself)|
+|[Development Environment](#-my-development-environment)|
+|[Tech Stack](#-some-tech-ive-begun-to-become-familiar-with-)|
+|[GitHub Activity](#--my-github-activity-)|
 
 </td>
 </tr>
@@ -138,11 +136,6 @@ journey
 
 ## 💻 My Development Environment
 <br>
-  
-
-
-
-
 <table>
 <tr>
 <td>
