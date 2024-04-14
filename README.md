@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/PhobiaCide?style=for-the-badge)
 ![GitHub Profile Views](https://komarev.com/ghpvc/?username=phobiacide&label=Profile%20views&color=0e75b6&style=for-the-badge&alt=phobiacide)
 
-## Introduction 🫱🏼‍🫲🏼
+## Introduction 🤝
 
 <table>
 <tr>   
