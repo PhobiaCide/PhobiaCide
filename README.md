@@ -236,17 +236,15 @@ journey
 <br>
 <h2> 📈 My GitHub Activity </h2>
 <br>
-<div>
+<div align="center">
   <table>
-    <tr>
+    <tr>         
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=phobiacide&" alt="phobiacide" />
+      </td>   
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phobiacide&show_icons=true&locale=en&layout=compact" alt="phobiacide" />
           <a href="https://github.com/ryo-ma/github-profile-trophy"></a>
-      </td>
-    </tr>
-       <tr>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=phobiacide&" alt="phobiacide" />
       </td>
     </tr>
   </table>
