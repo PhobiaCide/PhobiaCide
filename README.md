@@ -128,7 +128,7 @@ journey
       Sit down: 4: 🤦
       Pet cats: 6: 🤦, 😺, 😸, 😼
     section Code ❤️
-      Take pants pants: 8: 🤦
+      Take off pants: 8: 🤦
       Dream: 10: 🤦, 😺, 😸, 😼
       Make a flowchart: 8: 🤦
       Have deep conversations with AI: 6: 🤦, AI   
